@@ -1,5 +1,5 @@
 # resume-parser-api
-Segmentr, the world most advanced resume parser
+HrFlow.ai Parsing API, the world most advanced resume parser
 
 * API: https://developers.hrflow.ai
 * DEMO: http://labs.hrflow.ai
