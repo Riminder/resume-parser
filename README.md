@@ -1,4 +1,4 @@
-# resume-parser-api
+# Resume Parsing API
 HrFlow.ai Parsing API, the world most advanced resume parser, profile parser, job parser, hr document parser
 
 * API: https://developers.hrflow.ai
